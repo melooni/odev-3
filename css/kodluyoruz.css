@@ -1,0 +1,18 @@
+h1 {text-align: center;
+    color: darkred;
+    font-size: 50px;
+    font-style:italic;
+
+}
+h2  {color: darkred;
+    font-size: 35px;
+    font-style:italic;
+    
+}
+p {  text-align: end;
+     color: crimson;
+     font-style:italic;
+}
+body {
+    background-color: rgb(195, 233, 220);
+}
